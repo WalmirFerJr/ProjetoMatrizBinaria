@@ -7,10 +7,10 @@ Dada uma matriz 2D `M x N` preenchida com caracteres '0' e '1', o objetivo é en
 
 ### Exemplo de Entrada
 
-['1','0','1','0','0'],
-['1','0','1','1','1'],
-['1','1','1','1','1'],
-['1','0','0','1','0']
+['1','0','1','0','0'],  
+['1','0','1','1','1'],  
+['1','1','1','1','1'],  
+['1','0','0','1','0']  
 
 ### Saída Esperada
 
@@ -83,4 +83,5 @@ Se tudo estiver correto, você verá a seguinte saída no seu terminal:
 Reading file: matriz.txt...
 Calculation complete.
 The largest rectangular area found is: 6
+
 ```
